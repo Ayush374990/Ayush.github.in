@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Gaming Website</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('background-image.jpg'); /* Replace 'background-image.jpg' with your image file */
+            background-size: cover;
+            background-position: center;
+            font-family: 'Arial', sans-serif;
+            color: #fff;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px;
+        }
+
+        section {
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            margin: 20px;
+            border-radius: 10px;
+        }
+
+        h1, h2 {
+            color: #ff9900;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Your Gaming Hub!</h1>
+    </header>
+
+    <section id="gaming-tips">
+        <h2>Gaming Tips</h2>
+        <p>Insert your gaming tips and advice here. Provide valuable insights and strategies for popular games.</p>
+    </section>
+
+    <section id="youtube-advice">
+        <h2>YouTube Tips</h2>
+        <p>Share tips on how to create engaging gaming content on YouTube. Discuss video editing, thumbnails, and audience engagement.</p>
+    </section>
+
+</body>
+</html>
